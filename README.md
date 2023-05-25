@@ -3,13 +3,6 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norouzy&show_icons=true&locale=en&layout=compact" alt="norouzy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norouzy&show_icons=true&locale=en" alt="norouzy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norouzy&" alt="norouzy" /></p>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/norouzy/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Mohammad Noroozi | 💻 Full Stack Developer | 🛸 Iran <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
