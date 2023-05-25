@@ -8,6 +8,7 @@
 </div>
 <br>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=norouzy&label=Profile%20views&color=0e75b6&style=flat" alt="norouzy" /> </p>
 <div align="center">
 	<p>
 		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norouzy&show_icons=true&locale=en&layout=compact" alt="norouzy" />
