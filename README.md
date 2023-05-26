@@ -1,3 +1,4 @@
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=norouzy&label=Profile%20views&color=0e75b6&style=flat" alt="norouzy" /> </span>
 <div align="center">
 	<h1>Hi there, I'm <a href="#">Mohammad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
@@ -10,7 +11,7 @@
 <br>
 
 <div align="center">
-	<p align="left"> <img src="https://komarev.com/ghpvc/?username=norouzy&label=Profile%20views&color=0e75b6&style=flat" alt="norouzy" /> </p>
+	
 	<p>
 	   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norouzy&show_icons=true&locale=en&layout=compact" alt="norouzy" />
 	</p>
