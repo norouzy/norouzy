@@ -1,22 +1,21 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=norouzy&label=Profile%20views&color=0e75b6&style=flat" alt="norouzy" /> </span>
 <div align="center">
-	<h1>Hi there, I'm <a href="#">Mohammad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
+    <h1>Hi there, I'm <a href="#">Mohammad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Mohammad Noroozi | 💻 Full Stack Developer | 🛸 Iran <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+	<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Mohammad Noroozi | 💻 Full Stack Developer | 🛸 Iran <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
 <br>
-
 <div align="center">
-	
 	<p>
-	   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norouzy&show_icons=true&locale=en&layout=compact" alt="norouzy" />
+		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norouzy&show_icons=true&locale=en&layout=compact" alt="norouzy" />
 	</p>
 	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norouzy&show_icons=true&locale=en" alt="norouzy" /></p>
 </div>
+
+
 
 ### - Languages and Tools...
 
